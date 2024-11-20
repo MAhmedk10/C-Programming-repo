@@ -33,4 +33,6 @@ int main()
 
     int modulus = num1 % num2;
     printf("Modulus: %d %% %d = %d\n", num1, num2, modulus);
+
+    return 0;
 }
